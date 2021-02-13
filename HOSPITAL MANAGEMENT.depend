@@ -1,0 +1,203 @@
+# depslib dependency file v1.0
+1532984564 source:e:\hospital management project ultimate\real file here\29.8\1705017 1705020\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
+1530384354 e:\hospital management project ultimate\real file here\29.8\1705017 1705020\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"TextureList.h"
+
+1530384354 e:\hospital management project ultimate\real file here\29.8\1705017 1705020\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530384352 e:\hospital management project ultimate\real file here\29.8\1705017 1705020\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1532984564 e:\hospital management project ultimate\real file here\29.8\1705017 1705020\texturelist.h
+	"texture.h"
+
+1530384362 e:\hospital management project ultimate\real file here\29.8\1705017 1705020\texture.h
+
+1533052206 source:e:\hospital management project ultimate\real file here\30.8\1705017 1705020\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
+1530384354 e:\hospital management project ultimate\real file here\30.8\1705017 1705020\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"TextureList.h"
+
+1530384354 e:\hospital management project ultimate\real file here\30.8\1705017 1705020\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530384352 e:\hospital management project ultimate\real file here\30.8\1705017 1705020\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1533049024 e:\hospital management project ultimate\real file here\30.8\1705017 1705020\texturelist.h
+	"texture.h"
+
+1530384362 e:\hospital management project ultimate\real file here\30.8\1705017 1705020\texture.h
+
+1533072069 source:e:\hospital management project ultimate\real file here\31.8\1705017 1705020\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1530384354 e:\hospital management project ultimate\real file here\31.8\1705017 1705020\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"TextureList.h"
+
+1530384354 e:\hospital management project ultimate\real file here\31.8\1705017 1705020\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530384352 e:\hospital management project ultimate\real file here\31.8\1705017 1705020\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1533049024 e:\hospital management project ultimate\real file here\31.8\1705017 1705020\texturelist.h
+	"texture.h"
+
+1530384362 e:\hospital management project ultimate\real file here\31.8\1705017 1705020\texture.h
+
+1533072069 source:e:\hospital management project ultimate\done project check\1705017 1705020\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1530384354 e:\hospital management project ultimate\done project check\1705017 1705020\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"TextureList.h"
+
+1530384354 e:\hospital management project ultimate\done project check\1705017 1705020\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530384352 e:\hospital management project ultimate\done project check\1705017 1705020\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1533049024 e:\hospital management project ultimate\done project check\1705017 1705020\texturelist.h
+	"texture.h"
+
+1530384362 e:\hospital management project ultimate\done project check\1705017 1705020\texture.h
+
+1533072069 source:c:\users\mdtow\desktop\project done hms\1705017 1705020\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1530384354 c:\users\mdtow\desktop\project done hms\1705017 1705020\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"TextureList.h"
+
+1530384354 c:\users\mdtow\desktop\project done hms\1705017 1705020\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530384352 c:\users\mdtow\desktop\project done hms\1705017 1705020\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1533049024 c:\users\mdtow\desktop\project done hms\1705017 1705020\texturelist.h
+	"texture.h"
+
+1530384362 c:\users\mdtow\desktop\project done hms\1705017 1705020\texture.h
+
+1533072069 source:c:\users\mdtow\desktop\dock\project done hms\1705017 1705020\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1530384354 c:\users\mdtow\desktop\dock\project done hms\1705017 1705020\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"TextureList.h"
+
+1530384354 c:\users\mdtow\desktop\dock\project done hms\1705017 1705020\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530384352 c:\users\mdtow\desktop\dock\project done hms\1705017 1705020\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1533049024 c:\users\mdtow\desktop\dock\project done hms\1705017 1705020\texturelist.h
+	"texture.h"
+
+1530384362 c:\users\mdtow\desktop\dock\project done hms\1705017 1705020\texture.h
+
